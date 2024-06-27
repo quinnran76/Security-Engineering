@@ -1,4 +1,3 @@
-
 # Cybersecurity Arsenal: A Practical Journey
 
 ## Introduction

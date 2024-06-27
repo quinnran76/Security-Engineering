@@ -1,4 +1,3 @@
-Here's the content formatted in markdown:
 
 # Cybersecurity Arsenal: A Practical Journey
 

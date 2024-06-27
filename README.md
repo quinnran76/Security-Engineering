@@ -1,6 +1,3 @@
-# Security-Engineering
-Hands-on lab projects for the Security Engineering learning path
-
 # PROJECTNAME
 
 ## Objective

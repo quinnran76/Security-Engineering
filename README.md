@@ -1,35 +1,5 @@
 # Cybersecurity Arsenal: A Practical Journey
 
-"Calculated Risk" badge:
-
-Blue hexagonal shape
-White chess queen piece icon
-Text: "Calculated Risk"
-Color scheme: Blue and white
-
-
-"Pre Security Learning Path" badge:
-
-Red cloud logo
-Text: "Pre Security Learning Path"
-Color scheme: Red, white, and black
-
-
-"Introduction to Security Engineering" badge:
-
-Blue shield shape
-Yellow hard hat and gear icons
-Text: "Introduction to Security Engineering"
-Color scheme: Blue and yellow
-
-
-"Pentesting Principles" badge:
-
-Blue shield shape
-White crossed swords icon
-Text: "Pentesting Principles"
-Color scheme: Blue and white
-
 ## Introduction
 
 As an aspiring Cyber Security Engineer, I'm on an exhilarating journey to master the intricate world of digital defense. My passion for secure network architecture, vulnerability analysis, and threat detection drives me forward each day. I'm building a robust foundation in security posture enhancement, problem-solving with cutting-edge tools, and staying ahead of the ever-evolving threat landscape.

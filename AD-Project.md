@@ -34,18 +34,20 @@ Example(s) below.
 
 *Ref 1: Network Diagram*
 *  Designed a logical diagram for the project
-![Active Directory Project-2024](https://github.com/quinnran76/Detection-Lab/assets/58571908/048f3cef-cd1f-4853-936a-9b450f9caab1)
+![Active Directory Project-2024](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/031ea7e9-5114-4823-a1c4-77b740ec0d27)
 
 
 
 *  Built the home lab environment, including installing and configuring virual machines, setting the NAT network according to the diagram, and promoting a Domain Controller
-![Screenshot 2024-05-23 161118](https://github.com/quinnran76/Detection-Lab/assets/58571908/0911104c-9878-4d54-a7d7-d7b87cc105ff)
-![Screenshot 2024-05-23 160743](https://github.com/quinnran76/Detection-Lab/assets/58571908/620ad46c-56e0-484a-8bf9-4cc0e544bf83)
+![Screenshot 2024-05-23 160743](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/9c9fa566-5912-4c46-aea1-b0d21abb52f1)
+![Screenshot 2024-05-23 161118](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/5840b289-67b4-43ce-8a0b-29e14fea94c9)
+
 
 
 
 *  Installed and configured Splunk Enterprise on an Ubuntu Server as the SIEM solution
-![Screenshot 2024-05-23 170017](https://github.com/quinnran76/Detection-Lab/assets/58571908/a70588fb-6c8a-47d9-9c71-68a23c96bc2d)
+![Screenshot 2024-05-23 170017](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/448bb87c-7a41-414f-925b-4f415b08a257)
+
 
 
 
@@ -60,16 +62,19 @@ Example(s) below.
 
 
 *  Perfomed a Brute-Force attack using Kali Linux and the Crowbar tool, targeting the "Target PC"
-![Screenshot 2024-05-23 173219](https://github.com/quinnran76/Detection-Lab/assets/58571908/69553083-b7b4-43fd-8b1a-615ded77a56f)
+![Screenshot 2024-05-23 170321](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/2cb95bd6-a629-4139-834a-8cba4e1ef4f2)
+
 
 
 
 
 *  Analyzed the generated telemetry and logs in Splunk to detect and investigate the Brute-Force attack
-![Screenshot 2024-05-23 173741](https://github.com/quinnran76/Detection-Lab/assets/58571908/a391f554-5667-4db0-8019-428afa2e92b6)
-![Screenshot 2024-05-23 173909](https://github.com/quinnran76/Detection-Lab/assets/58571908/2dca5762-3425-4cd2-bb3c-fce4155a5a48)
-![Screenshot 2024-05-23 173940](https://github.com/quinnran76/Detection-Lab/assets/58571908/553d6e98-c569-403b-a928-5c380589a9b2)
-![Screenshot 2024-05-23 174247](https://github.com/quinnran76/Detection-Lab/assets/58571908/338183ec-b6e4-432a-b89c-1e1c04e3f047)
+![Screenshot 2024-05-23 172305](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/c87c041f-3dda-40fb-8b77-0f87abd4ad77)
+![Screenshot 2024-05-23 173219](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/24f1122a-3143-4567-b829-09b8139f3cdf)
+![Screenshot 2024-05-23 173741](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/0f2b517c-eaf7-4bec-9ef5-c613c041a5e9)
+![Screenshot 2024-05-23 173909](https://github.com/quinnran76/Security-Engineering-Labs/assets/58571908/a37d92bd-0f3c-4a55-8975-64244f348eb2)
+
+
 
 
 

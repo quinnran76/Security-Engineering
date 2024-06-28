@@ -1,5 +1,11 @@
 # Cybersecurity Arsenal: A Practical Journey
 
+![Pre Security Learning Path](https://img.shields.io/badge/Pre_Security_Learning_Path-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Introduction to Security Engineering](https://img.shields.io/badge/Intro_to_Security_Engineering-1E90FF?style=for-the-badge&logo=tryhackme&logoColor=yellow)
+![Pentesting Principles](https://img.shields.io/badge/Pentesting_Principles-4682B4?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Calculated Risk](https://img.shields.io/badge/Calculated_Risk-4169E1?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+
 ## Introduction
 
 As an aspiring Cyber Security Engineer, I'm on an exhilarating journey to master the intricate world of digital defense. My passion for secure network architecture, vulnerability analysis, and threat detection drives me forward each day. I'm building a robust foundation in security posture enhancement, problem-solving with cutting-edge tools, and staying ahead of the ever-evolving threat landscape.

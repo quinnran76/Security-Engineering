@@ -1,4 +1,4 @@
-# Cybersecurity Arsenal: A Practical Journey
+# Security Engineering: My Practical Journey
 
 ![Pre Security Learning Path](https://img.shields.io/badge/Pre_Security_Learning_Path-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Introduction to Security Engineering](https://img.shields.io/badge/Intro_to_Security_Engineering-1E90FF?style=for-the-badge&logo=tryhackme&logoColor=yellow)

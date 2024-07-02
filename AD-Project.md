@@ -20,6 +20,10 @@ The Active Directory and Detection Lab project aimed to establish a controlled e
 
 ### Tools Used
 
+-![Splunk Enterprise](https://img.shields.io/badge/Splunk_Enterprise-000000?style=for-the-badge&logo=splunk&logoColor=white)
+-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+-![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-B22222?style=for-the-badge&logo=atom&logoColor=white)
+-![Sysinternals](https://img.shields.io/badge/Sysinternals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 - Splunk Enterprise
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.

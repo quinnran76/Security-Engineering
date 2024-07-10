@@ -13,7 +13,7 @@ As an aspiring Cyber Security Engineer, I'm on an exhilarating journey to master
 My approach to learning is fourfold:
 
 1. **Curiosity**: Transforming each challenge into an exciting opportunity for growth.
-2. **Consistency**: Keeping progress steady, even when the goal seems impossible and discouraging.
+2. **Consistency**: Keeping progress steady, even at times when the goal seems impossible and discouraging.
 3. **Discipline**: Maintaining a rigorous practice schedule and pushing through challenges to accelerate skill acquisition and deepen understanding.
 4. **Structure**: Utilizing the comprehensive "TryHackMe" learning path to develop skills systematically and effectively.
 
